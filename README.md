@@ -1,3 +1,3 @@
-Hey there! I'm BackThePortal!
-I'm currently learning JavaScript and HTML. I play Geometry Dash and Minecraft!
-Follow me in Twitter (@BackThePortal) and subscribe to my YouTube channel (BackThePortal Games)!
+Hey there, I'm backo. Currently learning JavaScript with Vue.js.
+
+I own "backtheportal.com", but haven't used it yet. I plan to do so through the next months.
