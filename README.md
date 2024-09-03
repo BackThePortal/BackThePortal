@@ -4,7 +4,7 @@ Currently in my last year of high school. I am interested in **front end web dev
 
 Fluent in **HTML/CSS**, **JavaScript/TypeScript**, **C++** (favourite language), **Python**, and also some **Java** and **Go**. Plan to learn Rust in the future.
 
-Currently working on a school project about fractal generation and its mathematical basis.
+Working on a school project about fractal generation and its mathematical basis.
 
 Participated in regional algorithmic and AI competitions.
 
